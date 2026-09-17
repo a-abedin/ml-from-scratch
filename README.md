@@ -31,7 +31,7 @@ Our custom implementations match standard libraries in accuracy while providing 
 ---
 
 ## Project Architecture
-
+```text
 ml-from-scratch/
 ├── ml_core/
 │   ├── base.py              # BaseEstimator, ClassifierMixin, RegressorMixin
@@ -44,7 +44,7 @@ ml-from-scratch/
 │   └── test_parity.py       # Pytest suite against Scikit-Learn baselines
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Quickstart
