@@ -1,0 +1,13 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Testing & OS files
+.pytest_cache/
+.DS_Store
