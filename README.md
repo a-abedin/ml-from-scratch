@@ -1,6 +1,6 @@
 # ML-Core: Scikit-Learn Compatible Machine Learning From Scratch
 
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](#)
+[![Tests](https://github.com/a-abedin/ml-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/a-abedin/ml-from-scratch/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11-blue.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
